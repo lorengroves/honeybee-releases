@@ -10,7 +10,7 @@
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/lorengroves/honeybee-releases/releases/download/v1.2.0/HoneyBee-1.2.0.zip" length="138696129" type="application/octet-stream" sparkle:edSignature="JCxXfzwbjF7cGsLZNoRWsZ/lHgJAhtwFpj8pbsW+AwjR2xOjfQbdtZaqZta0fUOzN9YgnpUqCWof86AH/vrkCQ=="/>
+            <enclosure url="https://github.com/lorengroves/honeybee-releases/releases/download/v1.2.0/HoneyBee-1.2.0.zip" length="138698048" type="application/octet-stream" sparkle:edSignature="i2Q/Xefs5no639ZqBSsLe6lEKzANWxYEXGvhBfunVB81oDwpEfZtrK8gwwwEqvW0/t3wvxOPCYn1l4RsI3H1BQ=="/>
         </item>
         <item>
             <title>1.1.0</title>
