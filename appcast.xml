@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Honey Bee Updates</title>
-    <link>https://lorengroves.github.io/honeybee-releases/appcast.xml</link>
-    <description>Production releases for Honey Bee.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>HoneyBee</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Mon, 05 Oct 2026 21:53:10 -1000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/lorengroves/honeybee-releases/releases/download/v1.1.0/HoneyBee-1.1.0.zip" length="137961950" type="application/octet-stream" sparkle:edSignature="YiXC9sVB4f5vKFxb64pmbdRTddjyePBr1NEapcQTCCWKTWSKOJQqWO9z+8ebmH7h/4gtcusdEsqWlu4ReANoAQ=="/>
+        </item>
+    </channel>
 </rss>
