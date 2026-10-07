@@ -3,6 +3,16 @@
     <channel>
         <title>HoneyBee</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Wed, 07 Oct 2026 05:25:10 -1000</pubDate>
+            <link>https://github.com/lorengroves/honeybee-releases/releases</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/lorengroves/honeybee-releases/releases/download/v1.2.1/HoneyBee-1.2.1.zip" length="140002168" type="application/octet-stream" sparkle:edSignature="97ivrjMewv2+ct2VVm42QYixPbfPQRGmIb/fbuMNbcKVz3/a0UlRxhmETpOcklE9eQJo96XToY5gv8hw24/5CA=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Tue, 06 Oct 2026 10:41:39 -1000</pubDate>
             <link>https://github.com/lorengroves/honeybee-releases/releases</link>
