@@ -3,6 +3,16 @@
     <channel>
         <title>HoneyBee</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Wed, 07 Oct 2026 15:17:18 -1000</pubDate>
+            <link>https://github.com/lorengroves/honeybee-releases/releases</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/lorengroves/honeybee-releases/releases/download/v1.3.0/HoneyBee-1.3.0.zip" length="140043005" type="application/octet-stream" sparkle:edSignature="su5zH944Oke/ciSrVzUtTFh8B/dHVAmIEwWHkmUIf4N2a7AOCgYNfv4cPP03G02YJnvzGMwl0IOzfvRUoLdnAg=="/>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Wed, 07 Oct 2026 05:25:10 -1000</pubDate>
             <link>https://github.com/lorengroves/honeybee-releases/releases</link>
@@ -21,15 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/lorengroves/honeybee-releases/releases/download/v1.2.0/HoneyBee-1.2.0.zip" length="138698048" type="application/octet-stream" sparkle:edSignature="i2Q/Xefs5no639ZqBSsLe6lEKzANWxYEXGvhBfunVB81oDwpEfZtrK8gwwwEqvW0/t3wvxOPCYn1l4RsI3H1BQ=="/>
-        </item>
-        <item>
-            <title>1.1.0</title>
-            <pubDate>Mon, 05 Oct 2026 21:53:10 -1000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/lorengroves/honeybee-releases/releases/download/v1.1.0/HoneyBee-1.1.0.zip" length="137961950" type="application/octet-stream" sparkle:edSignature="YiXC9sVB4f5vKFxb64pmbdRTddjyePBr1NEapcQTCCWKTWSKOJQqWO9z+8ebmH7h/4gtcusdEsqWlu4ReANoAQ=="/>
         </item>
     </channel>
 </rss>
