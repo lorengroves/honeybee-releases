@@ -3,6 +3,16 @@
     <channel>
         <title>HoneyBee</title>
         <item>
+            <title>1.3.2</title>
+            <pubDate>Mon, 12 Oct 2026 14:06:50 -1000</pubDate>
+            <link>https://github.com/lorengroves/honeybee-releases/releases</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/lorengroves/honeybee-releases/releases/download/v1.3.2/HoneyBee-1.3.2.zip" length="140076008" type="application/octet-stream" sparkle:edSignature="1LroIR+Lrebe7+9sU3LxpwmeKS5SNOkXObGslSQxbinnMmlggzAmTf+0Ydt1RjCrcr7ZnkiZB9H5fUwMpBpPDg=="/>
+        </item>
+        <item>
             <title>1.3.1</title>
             <pubDate>Sun, 11 Oct 2026 14:03:43 -1000</pubDate>
             <link>https://github.com/lorengroves/honeybee-releases/releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/lorengroves/honeybee-releases/releases/download/v1.3.0/HoneyBee-1.3.0.zip" length="140043005" type="application/octet-stream" sparkle:edSignature="su5zH944Oke/ciSrVzUtTFh8B/dHVAmIEwWHkmUIf4N2a7AOCgYNfv4cPP03G02YJnvzGMwl0IOzfvRUoLdnAg=="/>
-        </item>
-        <item>
-            <title>1.2.1</title>
-            <pubDate>Wed, 07 Oct 2026 05:25:10 -1000</pubDate>
-            <link>https://github.com/lorengroves/honeybee-releases/releases</link>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/lorengroves/honeybee-releases/releases/download/v1.2.1/HoneyBee-1.2.1.zip" length="140002168" type="application/octet-stream" sparkle:edSignature="97ivrjMewv2+ct2VVm42QYixPbfPQRGmIb/fbuMNbcKVz3/a0UlRxhmETpOcklE9eQJo96XToY5gv8hw24/5CA=="/>
         </item>
     </channel>
 </rss>
